@@ -12,7 +12,9 @@
         <module>service-ribbon</module>
         <module>service-feign</module>
         <module>service-zuul</module>
-    </modules>
+        <module>config-server</module>
+		<module>config-client</module>
+	</modules>
 	<packaging>pom</packaging>
 
 	<name>wow-spring-cloud</name>
